@@ -1,0 +1,34 @@
+Obj=way
+Name=river
+
+cost=1000000
+maintenance=1
+topspeed=30
+max_weight=1000
+waytype=water
+system_type=255
+# skin
+icon=> river.3.4
+cursor=bdz.0.0
+# rbis * animation
+Image[-]=river.1.2
+Image[N]=river.1.5
+Image[S]=river.2.1
+Image[E]=river.2.2
+Image[W]=river.2.0
+Image[NS]=river.1.0
+Image[EW]=river.1.1
+Image[NSE]=river.0.2
+Image[NSW]=river.0.4
+Image[NEW]=river.0.1
+Image[SEW]=river.0.3
+Image[NSEW]=river.1.2
+Image[NE]=river.3.0
+Image[SE]=river.2.3
+Image[NW]=river.2.4
+Image[SW]=river.2.5
+# hangtyp * animation
+ImageUp[3]=river.1.3
+ImageUp[6]=river.1.4
+ImageUp[9]=river.0.0
+ImageUp[12]=river.0.5

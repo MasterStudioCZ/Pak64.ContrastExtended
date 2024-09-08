@@ -1,0 +1,33 @@
+Obj=way
+Name=Kanal
+copyright=Kristian Koerselman, MasterStudioCZ (textures)
+cost=1000000
+maintenance=100
+topspeed=30
+max_weight=1000
+waytype=water
+# skin
+icon=> canal.3.4
+cursor=bdz.0.0
+# rbis * animation
+Image[-]=canal.1.2
+Image[N]=canal.1.5
+Image[S]=canal.2.1
+Image[E]=canal.2.2
+Image[W]=canal.2.0
+Image[NS]=canal.1.0
+Image[EW]=canal.1.1
+Image[NSE]=canal.0.2
+Image[NSW]=canal.0.4
+Image[NEW]=canal.0.1
+Image[SEW]=canal.0.3
+Image[NSEW]=canal.1.2
+Image[NE]=canal.3.0
+Image[SE]=canal.2.3
+Image[NW]=canal.2.4
+Image[SW]=canal.2.5
+# hangtyp * animation
+ImageUp[3]=canal.1.3
+ImageUp[6]=canal.1.4
+ImageUp[9]=canal.0.0
+ImageUp[12]=canal.0.5

@@ -1,0 +1,28 @@
+Obj=way
+waytype=air
+system_type=1
+Name=runway
+
+cost=200000
+maintenance=0
+topspeed=333
+icon=> runway.2.4
+cursor=bdz.0.0
+# rbis * animation
+Image[-]=runway.1.4
+Image[N]=runway.0.4
+Image[S]=runway.0.6
+Image[E]=runway.0.7
+Image[W]=runway.0.5
+Image[NS]=runway.0.0
+Image[EW]=runway.0.1
+Image[NSE]=runway.1.0
+Image[NSW]=runway.1.2
+Image[NEW]=runway.1.1
+Image[SEW]=runway.1.3
+Image[NSEW]=runway.1.4
+# illegal (but needed)
+Image[NE]=runway.2.5
+Image[SW]=runway.2.5
+Image[SE]=runway.2.5
+Image[NW]=runway.2.5
