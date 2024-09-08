@@ -1,0 +1,12 @@
+Obj=building
+Name=RES_56_14
+Type=res
+Level=14
+needs_ground=1
+copyright=MasterStudioCZ
+climates=arctic
+
+BackImage[0][0][0][0][0][0]=RES_56_14.0.0
+BackImage[0][0][0][1][0][0]=RES_56_14.1.0
+BackImage[1][0][0][0][0][0]=RES_56_14.0.1
+BackImage[1][0][0][1][0][0]=RES_56_14.1.1

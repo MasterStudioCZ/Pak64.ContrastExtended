@@ -1,0 +1,12 @@
+Obj=building
+Name=RES_56_10
+Type=res
+Level=10
+needs_ground=1
+copyright=MasterStudioCZ
+climates=arctic
+
+BackImage[0][0][0][0][0][0]=RES_56_10.0.0
+BackImage[1][0][0][0][0][0]=RES_56_10.0.1
+BackImage[2][0][0][0][0][0]=RES_56_10.0.2
+BackImage[3][0][0][0][0][0]=RES_56_10.0.3

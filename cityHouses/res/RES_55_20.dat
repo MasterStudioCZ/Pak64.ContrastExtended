@@ -1,0 +1,10 @@
+Obj=building
+Name=RES_55_20
+Type=res
+Level=20
+needs_ground=1
+copyright=Kristian Koerselman
+climates=temperate
+
+BackImage[0][0][0][0][0][0]=RES_55_20.0.0
+BackImage[0][0][0][1][0][0]=RES_55_20.1.0
