@@ -1,0 +1,10 @@
+Obj=building
+Name=AirDepot
+copyright=Kristian Koerselman
+# must be 1*1
+Dims=1,1,2
+NoInfo=1
+BackImage[0][0][0][0][0][0]=depot.0.1
+BackImage[1][0][0][0][0][0]=depot.0.0
+icon=> depot.0.2
+cursor=.misc/bdz.0.0

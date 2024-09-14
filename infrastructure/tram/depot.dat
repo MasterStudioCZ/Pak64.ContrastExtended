@@ -1,0 +1,10 @@
+Obj=building
+Name=TramDepot
+copyright=Kristian Koerselman
+# must be 1*1
+Dims=1,1,1
+NoInfo=1
+noconstruction=1
+BackImage[0][0][0][0][0][0]=depot.0.0
+icon=> depot.0.1
+cursor=.misc/bdz.0.0

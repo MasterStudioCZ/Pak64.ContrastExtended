@@ -4,7 +4,7 @@ waytype=tram_track
 cost=10000
 maintenance=0
 topspeed=80
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 icon=> tram_track.6.0
 # rbis * animation
 Image[-]=tram_track.0.0

@@ -7,7 +7,7 @@ max_weight=100
 waytype=road
 # skin
 icon=> asphalt.3.6
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 # rbis * animation
 Image[-]=asphalt.2.4
 Image[N]=asphalt.0.4
@@ -78,7 +78,7 @@ maintenance=0
 topspeed=80
 max_lenght=7
 icon=> bridge.1.2
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 BackImage[NS][0]=bridge.0.0
 FrontImage[NS][0]=bridge.1.0
 BackImage[EW][0]=bridge.0.1
@@ -99,3 +99,22 @@ BackRamp[E][0]=bridge.0.7
 FrontRamp[E][0]=bridge.1.7
 BackRamp[W][0]=bridge.0.5
 FrontRamp[W][0]=bridge.1.5
+----------------------------
+Obj=tunnel
+Name=RoadTunnel
+
+waytype=track
+cost=100000
+maintenance=0
+topspeed=100
+# Normal images
+FrontImage[N][0]=tunnel.0.0
+BackImage[N][0]=tunnel.2.0
+FrontImage[S][0]=tunnel.0.2
+BackImage[S][0]=-
+FrontImage[E][0]=tunnel.0.3
+BackImage[E][0]=-
+FrontImage[W][0]=tunnel.0.1
+BackImage[W][0]=tunnel.2.1
+icon=> tunnel.2.3
+cursor=.misc/bdz.0.0

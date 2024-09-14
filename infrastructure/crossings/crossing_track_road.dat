@@ -1,6 +1,6 @@
 obj=crossing
 name=crossing
-
+copyright=Kristian Koerselman
 waytype[0]=road
 waytype[1]=track
 speed[0]=80

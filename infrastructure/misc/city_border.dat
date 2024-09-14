@@ -8,7 +8,7 @@ topspeed=1
 max_weight=0
 # skin
 icon=> asphalt.3.4
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 # rbis * animation
 Image[-]=asphalt.2.4
 Image[N]=asphalt.0.4

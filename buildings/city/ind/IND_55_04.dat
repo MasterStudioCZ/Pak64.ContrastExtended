@@ -1,0 +1,8 @@
+Obj=building
+Name=IND_55_04
+copyright=Kristian Koerselman
+Type=ind
+Level=4
+needs_ground=1
+
+BackImage[0][0][0][0][0][0]=IND_55_04.0.0

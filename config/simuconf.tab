@@ -111,7 +111,7 @@ intercity_road_length = 800
 
 # Type of initial intercity roads - must be available
 # as PAK file. Fallback (if PAK is not found) is "asphalt_road"
-intercity_road_type = cobblestone_road
+intercity_road_type = asphalt_road
 
 # Type of city roads - must be available as PAK file.
 # Fallback (and default) is "city_road"

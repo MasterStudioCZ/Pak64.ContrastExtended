@@ -1,6 +1,5 @@
 Obj=way
 Name=river
-
 cost=1000000
 maintenance=1
 topspeed=30
@@ -9,7 +8,7 @@ waytype=water
 system_type=255
 # skin
 icon=> river.3.4
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 # rbis * animation
 Image[-]=river.1.2
 Image[N]=river.1.5

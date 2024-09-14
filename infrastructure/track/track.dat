@@ -5,7 +5,7 @@ waytype=track
 cost=100000
 maintenance=0
 topspeed=200
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 icon=> train_track.6.0
 # rbis * animation
 Image[-]=train_track.0.0
@@ -43,7 +43,7 @@ maintenance=0
 topspeed=200
 max_lenght=10
 icon=> bridge.1.2
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 BackImage[NS][0]=bridge.0.0
 FrontImage[NS][0]=bridge.1.0
 BackImage[EW][0]=bridge.0.1
@@ -82,5 +82,5 @@ BackImage[E][0]=-
 FrontImage[W][0]=tunnel.0.1
 BackImage[W][0]=tunnel.2.1
 icon=> tunnel.2.3
-cursor=bdz.0.0
+cursor=.misc/bdz.0.0
 ----------------------------
