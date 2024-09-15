@@ -8,7 +8,7 @@ max_weight=1000
 waytype=water
 # skin
 icon=> canal.3.4
-cursor=.misc/bdz.0.0
+cursor=bdz.0.0
 # rbis * animation
 Image[-]=canal.1.2
 Image[N]=canal.1.5

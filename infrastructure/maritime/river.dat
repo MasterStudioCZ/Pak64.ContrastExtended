@@ -8,7 +8,7 @@ waytype=water
 system_type=255
 # skin
 icon=> river.3.4
-cursor=.misc/bdz.0.0
+cursor=bdz.0.0
 # rbis * animation
 Image[-]=river.1.2
 Image[N]=river.1.5

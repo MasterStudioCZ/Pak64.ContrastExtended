@@ -1,0 +1,54 @@
+# images S, N, E, W red, then green, then yellow (for presignal)
+# repeat (if you like) for electrification
+obj=roadsign
+name=Signals
+copyright=Kristian Koerselman, prissi
+waytype=track
+cost=750
+is_signal=1
+Image[0]=rail_signals.0.0
+Image[1]=rail_signals.0.1
+Image[2]=rail_signals.0.2
+Image[3]=rail_signals.0.3
+Image[4]=rail_signals.0.4
+Image[5]=rail_signals.0.5
+Image[6]=rail_signals.0.6
+Image[7]=rail_signals.0.7
+Icon=> rail_signals.0.12
+Cursor=rail_signals.0.13
+----------------------------
+obj=roadsign
+name=LongBlockSignals
+copyright=Kristian Koerselman, prissi
+waytype=track
+cost=750
+is_signal=1
+is_longblocksignal=1
+Image[0]=rail_signals.1.0
+Image[1]=rail_signals.1.1
+Image[2]=rail_signals.1.2
+Image[3]=rail_signals.1.3
+Image[4]=rail_signals.1.4
+Image[5]=rail_signals.1.5
+Image[6]=rail_signals.1.6
+Image[7]=rail_signals.1.7
+Icon=> rail_signals.1.12
+Cursor=rail_signals.1.13
+----------------------------
+obj=roadsign
+Name=ChooseSignals
+copyright=Kristian Koerselman, prissi
+waytype=track
+cost=750
+is_signal=1
+free_route=1
+Image[0]=rail_signals.2.0
+Image[1]=rail_signals.2.1
+Image[2]=rail_signals.2.2
+Image[3]=rail_signals.2.3
+Image[4]=rail_signals.2.4
+Image[5]=rail_signals.2.5
+Image[6]=rail_signals.2.6
+Image[7]=rail_signals.2.7
+Icon=> rail_signals.2.12
+Cursor=rail_signals.2.13

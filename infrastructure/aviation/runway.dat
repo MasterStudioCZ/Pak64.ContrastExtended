@@ -7,7 +7,7 @@ cost=200000
 maintenance=0
 topspeed=333
 icon=> runway.2.4
-cursor=.misc/bdz.0.0
+cursor=bdz.0.0
 # rbis * animation
 Image[-]=runway.1.4
 Image[N]=runway.0.4

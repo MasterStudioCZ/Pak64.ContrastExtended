@@ -1,0 +1,16 @@
+obj=roadsign
+name=Tram_Signals
+copyright=Kristian Koerselman, prissi
+waytype=tram_track
+cost=750
+is_signal=1
+Image[0]=tram_signals.0.0
+Image[1]=tram_signals.0.1
+Image[2]=tram_signals.0.2
+Image[3]=tram_signals.0.3
+Image[4]=tram_signals.0.4
+Image[5]=tram_signals.0.5
+Image[6]=tram_signals.0.6
+Image[7]=tram_signals.0.7
+Icon=> tram_signals.0.12
+Cursor=tram_signals.0.13
